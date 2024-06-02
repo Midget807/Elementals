@@ -1,0 +1,139 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_diamond": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:diamond"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_essence/anemo_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "elementals:essence/anemo_essence"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_essence/cryo_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "elementals:essence/cryo_essence"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_essence/dendro_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "elementals:essence/dendro_essence"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_essence/electro_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "elementals:essence/electro_essence"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_essence/geo_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "elementals:essence/geo_essence"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_essence/hydro_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "elementals:essence/hydro_essence"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_essence/pyro_essence": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "elementals:essence/pyro_essence"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_experience_bottle": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:experience_bottle"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:elemental_shard"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_essence/anemo_essence",
+      "has_essence/cryo_essence",
+      "has_essence/dendro_essence",
+      "has_essence/electro_essence",
+      "has_essence/geo_essence",
+      "has_essence/hydro_essence",
+      "has_essence/pyro_essence",
+      "has_experience_bottle",
+      "has_diamond"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:elemental_shard"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "elementals:block/elemental_configurator",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "elementals:block/elemental_configurator",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "elementals:block/elemental_configurator"
+    },
+    "facing=west": {
+      "model": "elementals:block/elemental_configurator",
+      "y": 90
+    }
+  }
+}

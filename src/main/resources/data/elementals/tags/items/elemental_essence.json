@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "elementals:essence/anemo_essence",
+    "elementals:essence/cryo_essence",
+    "elementals:essence/dendro_essence",
+    "elementals:essence/electro_essence",
+    "elementals:essence/geo_essence",
+    "elementals:essence/hydro_essence",
+    "elementals:essence/pyro_essence"
+  ]
+}

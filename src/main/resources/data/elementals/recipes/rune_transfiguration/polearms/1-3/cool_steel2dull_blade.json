@@ -1,0 +1,8 @@
+{
+  "type": "elementals:rune_transfiguration",
+  "count": 1,
+  "ingredient": {
+    "item": "elementals:runes/cool_steel"
+  },
+  "result": "elementals:runes/dull_blade"
+}

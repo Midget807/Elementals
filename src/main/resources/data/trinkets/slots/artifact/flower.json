@@ -1,0 +1,5 @@
+{
+  "icon": "elementals:gui/slots/flower",
+  "order": 4,
+  "validator_predicates": "trinkets:tag"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    " DD",
+    "DDD",
+    "SD "
+  ],
+  "result": {
+    "item": "elementals:diamond_claymore"
+  },
+  "show_notification": true
+}

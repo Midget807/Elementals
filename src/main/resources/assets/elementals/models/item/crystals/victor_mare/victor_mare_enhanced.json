@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "elementals:item/crystals/victor_mare/victor_mare_enhanced"
+  }
+}

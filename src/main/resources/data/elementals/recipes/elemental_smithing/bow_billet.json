@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "elementals:black_sand"
+  },
+  "addition": {
+    "item": "elementals:reinforced_bow"
+  },
+  "base": {
+    "item": "minecraft:gold_block"
+  },
+  "result": {
+    "item": "elementals:bow_billet"
+  }
+}

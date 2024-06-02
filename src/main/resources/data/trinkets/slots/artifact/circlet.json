@@ -1,0 +1,5 @@
+{
+  "icon": "elementals:gui/slots/circlet",
+  "order": 3,
+  "validator_predicates": "trinkets:tag"
+}

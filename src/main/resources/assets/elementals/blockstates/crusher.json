@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "elementals:block/crusher",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "elementals:block/crusher",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "elementals:block/crusher"
+    },
+    "facing=west": {
+      "model": "elementals:block/crusher",
+      "y": 90
+    }
+  }
+}

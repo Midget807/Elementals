@@ -1,0 +1,51 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "elementals:item/swords/dull_blade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 201
+      },
+      "model": "elementals:item/swords/silver_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 301
+      },
+      "model": "elementals:item/swords/cool_steel"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 302
+      },
+      "model": "elementals:item/swords/dark_iron_sword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 303
+      },
+      "model": "elementals:item/swords/fillet_blade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 304
+      },
+      "model": "elementals:item/swords/harbinger_of_dawn"
+    },
+
+    {
+      "predicate": {
+        "custom_model_data": 501
+      },
+      "model": "elementals:item/swords/aquila_favonia"
+    }
+  ]
+}

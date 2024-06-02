@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "elementals:essence/geo_essence"
+    },
+    "K": {
+      "item": "elementals:knowledge_capsule/full"
+    }
+  },
+  "pattern": [
+    "EEE",
+    "EKE",
+    "EEE"
+  ],
+  "result": {
+    "item": "elementals:knowledge_capsule/geo"
+  },
+  "show_notification": true
+}

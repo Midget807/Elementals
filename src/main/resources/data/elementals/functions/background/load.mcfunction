@@ -1,0 +1,1 @@
+tellraw @a {"text":"Elementals Mod Successfully Loaded!","color":"yellow"}

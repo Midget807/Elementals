@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "elementals:item/crystals/acer_palmatum/acer_palmatum"
+  }
+}

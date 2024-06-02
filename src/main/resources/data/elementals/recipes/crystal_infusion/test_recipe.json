@@ -1,0 +1,8 @@
+{
+  "type": "elementals:crystal_infusion",
+  "count": 9,
+  "ingredient": {
+    "item": "elementals:test_block"
+  },
+  "result": "elementals:test_item"
+}

@@ -1,0 +1,5 @@
+{
+  "icon": "minecraft:block/bedrock",
+  "order": 0,
+  "validator_predicates": "trinkets:tag"
+}

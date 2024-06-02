@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "elementals:item/crystals/tribulatio_demptio/tribulatio_demptio_enhanced"
+  }
+}

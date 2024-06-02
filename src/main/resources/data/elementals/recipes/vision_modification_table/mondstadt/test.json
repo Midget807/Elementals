@@ -1,0 +1,15 @@
+{
+  "type": "elementals:vision_modification",
+  "template": {
+    "item": "elementals:empty_vision"
+  },
+  "addition": {
+    "item": "elementals:test_item"
+  },
+  "base": {
+    "item": "elementals:test_item"
+  },
+  "result": {
+    "item": "elementals:test_block"
+  }
+}

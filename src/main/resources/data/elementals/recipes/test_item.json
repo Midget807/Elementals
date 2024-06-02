@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "elementals:test_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "elementals:test_item"
+  }
+}

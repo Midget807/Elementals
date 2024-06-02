@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "elementals:black_sand"
+  },
+  "addition": {
+    "item": "minecraft:netherite_sword"
+  },
+  "base": {
+    "item": "minecraft:gold_block"
+  },
+  "result": {
+    "item": "elementals:sword_billet"
+  }
+}

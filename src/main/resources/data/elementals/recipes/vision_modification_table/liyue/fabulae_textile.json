@@ -1,0 +1,15 @@
+{
+  "type": "elementals:vision_modification",
+  "template": {
+    "item": "elementals:empty_vision"
+  },
+  "base": {
+    "item": "elementals:crystals/fabulae_textile/fabulae_textile"
+  },
+  "addition": {
+    "item": "elementals:crystals/fabulae_textile/fabulae_textile_enhanced"
+  },
+  "result": {
+    "item": "elementals:visions/fabulae_textile_vision"
+  }
+}

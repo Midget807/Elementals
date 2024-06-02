@@ -1,0 +1,5 @@
+{
+  "icon": "elementals:gui/slots/goblet",
+  "order": 1,
+  "validator_predicates": "trinkets:tag"
+}

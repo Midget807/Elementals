@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "elementals:item/crystals/florsculi_implexi/florsculi_implexi_enhanced"
+  }
+}

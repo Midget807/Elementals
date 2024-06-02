@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "elementals:anemo_damage_type",
+    "elementals:cryo_damage_type",
+    "elementals:dendro_damage_type",
+    "elementals:electro_damage_type",
+    "elementals:geo_damage_type",
+    "elementals:hydro_damage_type",
+    "elementals:pyro_damage_type"
+  ]
+}

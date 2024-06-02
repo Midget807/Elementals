@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "elementals:black_sand"
+  },
+  "addition": {
+    "item": "elementals:enhanced_catalyst"
+  },
+  "base": {
+    "item": "minecraft:gold_block"
+  },
+  "result": {
+    "item": "elementals:catalyst_billet"
+  }
+}

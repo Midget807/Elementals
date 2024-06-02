@@ -1,0 +1,16 @@
+{
+  "entities": [
+    "player"
+  ],
+  "slots": [
+    "order1/slot",
+    "order2/slot",
+    "artifact/flower",
+    "artifact/plume",
+    "artifact/sands",
+    "artifact/goblet",
+    "artifact/circlet",
+    "shield/shield1",
+    "shield/shield2"
+  ]
+}

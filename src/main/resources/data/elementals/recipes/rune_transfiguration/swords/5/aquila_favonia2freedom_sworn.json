@@ -1,0 +1,8 @@
+{
+  "type": "elementals:elemental_configuration",
+  "count": 1,
+  "ingredient": {
+    "item": "elementals:runes/aquila_favonia"
+  },
+  "result": "elementals:runes/freedom_sworn"
+}

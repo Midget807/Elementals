@@ -1,0 +1,5 @@
+{
+  "icon": "elementals:gui/slots/sands",
+  "order": 2,
+  "validator_predicates": "trinkets:tag"
+}

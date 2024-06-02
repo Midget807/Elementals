@@ -1,0 +1,8 @@
+{
+  "type": "elementals:crystal_infusion",
+  "count": 1,
+  "ingredient": {
+    "item": "elementals:knowledge_capsule/hydro_infused_knowledge_capsule"
+  },
+  "result": "elementals:crystals/fabulae_textile/fabulae_textile_enhanced"
+}

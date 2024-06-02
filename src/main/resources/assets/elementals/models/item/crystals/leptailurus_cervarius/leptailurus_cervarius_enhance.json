@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "elementals:item/crystals/leptailurus_cervarius/leptailurus_cervarius_enhance"
+  }
+}

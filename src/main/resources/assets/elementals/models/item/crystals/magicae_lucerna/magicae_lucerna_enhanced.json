@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "elementals:item/crystals/magicae_lucerna/magicae_lucerna_enhanced"
+  }
+}

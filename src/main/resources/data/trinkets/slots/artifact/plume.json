@@ -1,0 +1,5 @@
+{
+  "icon": "elementals:gui/slots/plume",
+  "order": 2,
+  "validator_predicates": "trinkets:tag"
+}

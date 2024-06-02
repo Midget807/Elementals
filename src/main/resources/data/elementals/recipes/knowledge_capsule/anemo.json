@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "elementals:essence/anemo_essence"
+    },
+    "K": {
+      "item": "elementals:knowledge_capsule/full"
+    }
+  },
+  "pattern": [
+    "EEE",
+    "EKE",
+    "EEE"
+  ],
+  "result": {
+    "item": "elementals:knowledge_capsule/anemo"
+  },
+  "show_notification": true
+}

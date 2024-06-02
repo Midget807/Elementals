@@ -1,0 +1,15 @@
+{
+  "type": "elementals:elemental_forging",
+  "template": {
+    "item": "elementals:runes/dull_blade"
+  },
+  "base": {
+    "item": "elementals:sword_billet"
+  },
+  "addition": {
+    "item": "elementals:elemental_shard"
+  },
+  "result": {
+    "item": "minecraft:netherite_sword"
+  }
+}
